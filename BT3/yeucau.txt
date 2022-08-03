@@ -1,0 +1,5 @@
+Yêu cầu: Dùng 1 số thủ thuật và kỹ thuật, lấy giao diện các trang sau:
+- Trang chủ: http://news.zing.vn
+- Trang công nghệ: http://news.zing.vn/cong-nghe.html
+
+(*) Để các hình ảnh trong thư mục images, file javascript trong thư mục js và file css trong thư mục css
